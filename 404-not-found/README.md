@@ -30,10 +30,10 @@
 ## Overview
 
 ### Web 
-![screenshot](https://github.com/danilovilhena/dev-challenges-io/blob/master/404-not-found-master/assets/overview.png?raw=true)
+![screenshot](https://github.com/danilovilhena/dev-challenges-io/blob/master/404-not-found/assets/overview.png?raw=true)
 
 ### Mobile
-![screenshot](https://github.com/danilovilhena/dev-challenges-io/blob/master/404-not-found-master/assets/mobile.png?raw=true)
+![screenshot](https://github.com/danilovilhena/dev-challenges-io/blob/master/404-not-found/assets/mobile.png?raw=true)
 
 ## Built With
 
